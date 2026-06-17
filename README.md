@@ -1,4 +1,4 @@
-[install.sh.txt](https://github.com/user-attachments/files/29030483/install.sh.txt)
+[install.sh.](https://github.com/user-attachments/files/29030483/install.sh.txt)
 #!/bin/sh
 cd /tmp
 rm -rf plugin_build
